@@ -1,4 +1,4 @@
-# Nspire2016
+# Happify
 
 
 ##Overview
