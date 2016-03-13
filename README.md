@@ -13,3 +13,8 @@ Upon finding any negative images, we replace them with a happy one of kitten!!!
 ![Before](before1.png)
 ###After
 ![After](after1.png)
+
+###Before
+![Before](before2.png)
+###After
+![After](after2.png)
