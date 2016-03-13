@@ -11,7 +11,7 @@ var invoke = function () {
                })
         ).then(function(res){
             var myJson = JSON.parse(res)
-            //console.log(myJson)
+            //console.log(myJson.results)
             for(var i = 0; i<myJson.results.length; i++){
                 if(myJson.results[i] < 0.05){
                     self.attr('src', url_happy_image)
